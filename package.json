@@ -1,0 +1,31 @@
+{
+  "name": "ipchecker",
+  "version": "0.0.1",
+  "description": "A simple ip checker!",
+  "main": "ip,js",
+  "scripts": {
+    "start": "nodemon ./ip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herakumi/ipCheckerJavascript.git"
+  },
+  "keywords": [
+    "ip",
+    "ip",
+    "checker",
+    "ip",
+    "checker",
+    "javascript"
+  ],
+  "author": "Hoshiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/herakumi/ipCheckerJavascript/issues"
+  },
+  "homepage": "https://github.com/herakumi/ipCheckerJavascript#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "prompt": "^1.0.0"
+  }
+}
